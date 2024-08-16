@@ -1,2 +1,4 @@
 Today is Friday
 Tommorow is Saturday
+Day after tommorow would be Sunday
+And life goes on like this
